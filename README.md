@@ -1,4 +1,6 @@
 # v2ray
+Credit: https://www.v2ray.com
+
 Configuration Overview
 V2Ray shares a same structure of configuration between server side and client side shown as below. Server and client configurations are different in specific sections.
 
